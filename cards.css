@@ -1,0 +1,17 @@
+.newCard {
+    border: 2px solid black;
+    width: 10em;
+    height: 10em;
+    margin-top: 2.5em;
+}
+
+h2 {
+    text-align: center;
+}
+
+.deleteB {
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(248, 61, 61);
+    
+}
